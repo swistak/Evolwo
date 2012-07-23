@@ -33,7 +33,8 @@ It's additional purpose is to let me experiment with new libraries and coding te
 #### Inspirations:
 
 1. http://tryruby.org/
-2. https://github.com/swistak/nirvana
-3. Ace Editor
-4. Context/Subtext
-5. Smalltalk 
+2. Termkit
+3. https://github.com/swistak/nirvana
+4. Ace Editor
+5. Context/Subtext
+6. Smalltalk 
