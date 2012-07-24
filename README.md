@@ -38,3 +38,4 @@ It's additional purpose is to let me experiment with new libraries and coding te
 4. Ace Editor
 5. Context/Subtext
 6. Smalltalk 
+7. Fish shell.
